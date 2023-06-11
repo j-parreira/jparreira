@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @JPParreira76
-- 👀 I’m interested in Computer Science in general
+- 👋 Hi, I’m @JPSParreira
+- 
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently enrolled in a bachelor's degree in Computer Science 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 jpparreira76@gmail.com
