@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JPSParreira.
-- 👀 I’m interested in Data Science and Software Engineering.
-- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science and plan to do a master's on Data Science.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 joao_parreira@mail.telepac.pt
 
