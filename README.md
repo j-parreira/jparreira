@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JPSParreira.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently enrolled in a bachelor's degree in Computer Science.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 joao_parreira@mail.telepac.pt
