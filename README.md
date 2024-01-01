@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JPSParreira.
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science and plan to follow up with a master's in Data Science.
-- 💞️ I’m looking for a remote job linked to the area while studying and willing to collaborate on open source projects.
+- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science, and plan to follow up with a master's in Data Science.
+- 💞️ I’m looking for a remote job, linked to the area while studying, and willing to collaborate on open source projects.
 - 📫 joao_parreira@mail.telepac.pt
 
 <!---
