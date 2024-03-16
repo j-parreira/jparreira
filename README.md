@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JPSParreira.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science, and plan to follow up with a master's in Mobile Computing.
+- 👀 I’m interested in Software Development and Data Analysis.
+- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science, and plan to follow up with a master's in Mobile Computing or Data Science.
 - 💞️ I’m willing to collaborate on open source projects.
 - 📫 joao_parreira@mail.telepac.pt
 
