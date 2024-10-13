@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JPSParreira.
-- 💞️ My primary focus is on Machine Learning and Data Science, with a strong interest in Operating Systems, Web Development and Software Engineering.
-- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science, and plan to follow up with a master's in Data Science.
+- 💞️ My primary focus is on Software and Web Development, with a strong interest in Operating Systems, Data Science and Machine Learning.
+- 🌱 I’m currently enrolled in a bachelor's degree in Computer Science, and plan to follow up with a master's in Software Engineering.
 - 👀 I’m willing to collaborate on open source projects.
 - 📫 joao_parreira@mail.telepac.pt
 
