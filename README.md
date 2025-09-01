@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @jparreira.
-- 💞️ My primary focus is on Software Development, particularly in Backend technologies, Web Services, API design and Cloud Integration.
-- 🌱 I’m currently enrolled in a bachelor's degree in Computer Engineering, and plan to follow up with a master's in Computer Engineering.
-- 👀 I’m willing to collaborate on open source projects.
-- 📫 joao_parreira@mail.telepac.pt
+# 👋 Hey, I'm João Parreira
 
-<!---
-JPParreira76/JPParreira76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 💻 Focused on **Backend Development, Distributed Systems, and Systems Integration**.  
+- 🎓 Currently finishing my **Bachelor's in Computer Engineering** and starting a **Master's in Computer Engineering** at [IPLeiria](https://www.ipleiria.pt/).  
+- 🤝 Open to **collaborating on open-source projects** and contributing to research initiatives.  
+- 🔍 Interested in **reliable, distributed, and secure systems**.
+
+## 🌱 Current Journey  
+- 📚 Working with **Python**, **Java**, and **PHP**, while exploring different frameworks through academic and research projects.  
+- ⚙️ Strengthening foundations in **C** (and experimenting with **C++**) for systems-level programming.  
+- 🛰️ Contributing to research on **drones, IoT systems, and distributed platforms** at [CIIC](https://ciic.ipleiria.pt/).  
+
+## 🎯 Goals  
+- 🧑‍🎓 Broaden expertise through **multiple languages and frameworks**.  
+- 🚀 Specialize in **Distributed and Integrated Systems**.  
+
+## 📫 Contact  
+- ✉️ **joao_parreira@mail.telepac.pt**  
+- 🌐 [jparreira.dev](https://www.jparreira.dev/) *(work in progress)*  
+
+---
+
+> ⚡ *“Consistency beats intensity. Passion and discipline build the future.”*
+
